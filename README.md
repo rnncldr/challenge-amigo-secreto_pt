@@ -18,6 +18,10 @@ Este projeto é uma aplicação simples em JavaScript que permite ao usuário ad
 
 3. **Visualizar a lista**:
    - Todos os nomes adicionados aparecem na lista abaixo do campo de texto.
+  
+   
+## 🌐 Link Vercel
+   - https://challenge-amigo-secreto-pt-nine.vercel.app/
 
 ## 🖥️ Tecnologias utilizadas
 - **HTML**
